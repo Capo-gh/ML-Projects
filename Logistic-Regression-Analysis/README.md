@@ -18,3 +18,5 @@ Implementation of logistic regression from scratch applied to two datasets: Anti
 - Data normalization
 - Model selection through cross-validation
 - Feature subset selection
+
+The complete analysis is available in the Jupyter notebook including code, visualizations, and results.
